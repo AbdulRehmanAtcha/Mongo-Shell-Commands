@@ -2,7 +2,7 @@
 <ul>
   <li>Run Mongo Shell.</li>
   <li>To see databases type show dbs</li>
-  <li>To create Database simply type <b>"use databaseName"</b></li>
+  <li>To create Database simply type <b>use databaseName</b></li>
   <li>If a database is present with that name, it will shift to that, otherwise it will create a database with that name.</li>
   <li>To create a collection inside a database simply type <b>db.createCollection("Name Here")</b>.</li>
   <li>To see collections insert <b>show collections</b></li>
